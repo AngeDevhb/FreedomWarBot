@@ -117,8 +117,8 @@ export const botConfig = {
 
       // Feature-specific colors.
       giveaway: {
-        active: "#57F287",
-        ended: "#ED4245",
+        active: "#ffffff",
+        ended: "#000000",
       },
       ticket: {
         open: "#57F287",
